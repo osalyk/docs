@@ -2,8 +2,6 @@
 
 ## **Introductory Materials**
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
 This [USENIX ;login: article](https://www.usenix.org/system/files/login/articles/login\_summer17\_07\_rudoff.pdf), published in the Summer of 2017, provides an overview of the persistent memory programming model and the related software work that has been taking place. It includes a very high-level description of programming with [PMDK](http://pmem.io/pmdk/), although it refers to it by the old name, [NVM Libraries](http://pmem.io/2017/12/11/NVML-is-now-PMDK.html). This article is actually a follow-on to an [earlier article](https://www.usenix.org/system/files/login/articles/08\_rudoff\_040-045\_final.pdf), published in the Summer 2013 issue of USENIX ;login:.
 
 The [Persistent Memory Summit 2018](https://www.snia.org/pm-summit), held January 24th, 2018, provided a day full of informative talks and panels on persistent memory (slides and videos of the sesssions are available at above link).
